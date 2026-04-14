@@ -33,3 +33,7 @@
 
 ## git pull
 - Permet de récupérer les modifications distantes
+
+## git rebase 
+ - Permet de récupérer les modifications de la branche mère
+ -Les modifications de la branche courante sont placées au dessous des modifications de la branche mère.
