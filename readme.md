@@ -33,3 +33,16 @@
 
 ## git pull
 - Permet de récupérer les modifications distantes
+
+## git merge
+- Permet de fusionner le contenu de deux branches
+- L'ordre des commit n'est pas toujours sauvegarder
+- Pour conserver l'ordre des commit il faut utiliser l'option --no--ff
+
+## git reset 
+- Permet de supprimer un commit
+- Permet de revenir à un commit défini par son identifiant
+- Attention à utiliser avec précaution
+
+## git diff
+- Permet de comparer deux commits
